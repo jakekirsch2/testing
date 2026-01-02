@@ -181,5 +181,5 @@ def main(use_saved_model=False):
 
 
 if __name__ == "__main__":
-    main(use_saved_model=False)
+    main(use_saved_model=True)
     #test_saved_model()
