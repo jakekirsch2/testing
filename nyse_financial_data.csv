@@ -1,0 +1,6 @@
+marketCap,trailingPE,forwardPE,totalRevenue,netIncomeToCommon,profitMargins,revenueGrowth,earningsGrowth,currentPrice,priceToBook,industryKey,sectorKey,longName,country,ticker,error
+1689607602176.0,33.899063,24.567076,3631424995328.0,1571930898432.0,0.43287,0.303,0.391,325.77,53.4089,semiconductors,technology,Taiwan Semiconductor Manufacturing Company Limited,Taiwan,TSM,
+,,,,,,,,,,,,,,BRK/B,"Failed to parse json response from Yahoo Finance: {'code': 'Not Found', 'description': 'HTTP 404 Not Found'}"
+,,,,,,,,,,,,,,BRK/A,"Failed to parse json response from Yahoo Finance: {'code': 'Not Found', 'description': 'HTTP 404 Not Found'}"
+958621548544.0,52.521854,32.643204,59419799552.0,18412099584.0,0.30986,0.539,4.804,1069.345,40.261482,drug-manufacturers-general,healthcare,Eli Lilly and Company,United States,LLY,
+838497665024.0,15.3853655,13.3340645,168235008000.0,55680999424.0,0.3391,0.025,-0.037,308.015,2.425487,banks-diversified,financial-services,JPMorgan Chase & Co.,United States,JPM,

@@ -1,6 +1,9 @@
 numpy
 matplotlib
-sklearn
+scikit-learn
 torch
 requests
 transformers
+yfinance
+tqdm
+get-all-tickers
